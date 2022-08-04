@@ -28,5 +28,4 @@ Steps to run:
 
 4. Run each block of code one by one. It will automatically generate the Substrate and Virtual Network.
 
-5. Please make a note. In this code we have used our predefine substrate graph, name as "G" and a predefined VNR request graph "G1".
 
