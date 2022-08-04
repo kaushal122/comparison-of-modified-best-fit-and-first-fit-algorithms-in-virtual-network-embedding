@@ -22,7 +22,7 @@ Steps to run:
 
 1. Create a folder in google drive and upload all the files which is present in this zipped folder andCreate a folder in google drive.
 
-2. To execute the code we have to just run the "projectFile.ipynb" file in google colab. 
+2. To execute the code we have to just run the "mini_kaushal_kishor_final.ipynb" file in google colab. 
 
 3. set the path in the code before execution.
 
